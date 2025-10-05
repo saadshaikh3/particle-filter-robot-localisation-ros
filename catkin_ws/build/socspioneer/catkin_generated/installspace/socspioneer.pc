@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: socspioneer
+Description: Description of socspioneer
+Version: 2.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
